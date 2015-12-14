@@ -7,7 +7,7 @@
 	import javax.swing.JLabel;
 	import javax.swing.JOptionPane;
 	import javax.swing.JPanel;
-
+// Dave Marshall
 	public class Robin extends Flyinganimalsclass {
 	public Robin(){ 
 		beakcolor="yellow"; // override the super class if the sub class object is more specific

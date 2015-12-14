@@ -1,5 +1,6 @@
 import javax.swing.JOptionPane;
 
+// From Assignment 4
 public class Environment {
 
 	 public static void enviro(){
@@ -19,7 +20,7 @@ public class Environment {
 	 
 	 
 	
-
+// From Assignment 2
 	 switch( x ) { 
      case "(bluejay)": System.out.println("Good, bluejays go in the first habitat"); // 
      break;

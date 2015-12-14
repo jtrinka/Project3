@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-
+// Dave Marshall
 public class Bluejay extends Flyinganimalsclass {
 public Bluejay(){ 
 	feathercolor = "blue"; // override the super class if the sub class object is more specific

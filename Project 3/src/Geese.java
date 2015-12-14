@@ -6,7 +6,7 @@ import java.awt.Component;
 	import javax.swing.JLabel;
 	import javax.swing.JOptionPane;
 	import javax.swing.JPanel;
-
+// Dave Marshall
 	public class Geese extends Flyinganimalsclass {
 	public Geese(){ 
 		size = "large";
